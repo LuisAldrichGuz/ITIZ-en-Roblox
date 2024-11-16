@@ -29,6 +29,6 @@ Puedes utilizar, modificar y distribuir este trabajo bajo los términos de la **
 
 **Atribución**: Por favor, incluye el siguiente texto de atribución en tu proyecto, documentación o descripción:
 
-"Metaverso ITIZ creado por Luis Aldrich Guzmán. Proyecto original: [[enlace a tu repositorio de GitHub]([https://github.com/LuisAldrichGuz/ITIZ-en-Roblox](https://github.com/LuisAldrichGuz/ITIZ-en-Roblox))].
+"Metaverso ITIZ creado por Luis Aldrich Guzmán. Proyecto original: [ENLACE AL PROYECTO BASE]([https://github.com/LuisAldrichGuz/ITIZ-en-Roblox](https://github.com/LuisAldrichGuz/ITIZ-en-Roblox)).
 
 Para más información sobre el autor y otros proyectos, visita su portafolio personal: [https://luisaldrichguz.net](https://luisaldrichguz.net).
