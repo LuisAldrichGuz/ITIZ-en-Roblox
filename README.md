@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-El **Metaverso ITIZ** es un mundo virtual creado para representar el **Instituto Tecnológico de la Zona 5 (ITIZ)** en un espacio digital. Este proyecto ha sido desarrollado por **[Tu Nombre]** con el objetivo de proporcionar una experiencia educativa e interactiva para los estudiantes, profesores y exalumnos de ITIZ. Aquí, los usuarios pueden explorar un modelo virtual del campus, interactuar con recursos educativos y participar en actividades dentro de este metaverso.
+El **Metaverso ITIZ** es un mundo virtual creado para representar el **Instituto Tecnológico de Iztapalapa (ITIZ)** en un espacio digital. Este proyecto ha sido desarrollado por **Luis Aldrich Guzmán** con el objetivo de proporcionar una experiencia educativa e interactiva para los estudiantes, profesores y exalumnos de ITIZ. Aquí, los usuarios pueden explorar un modelo virtual del campus, interactuar con recursos educativos y participar en actividades dentro de este metaverso.
 
 Este proyecto es **Open Source** y está licenciado bajo la **Licencia Creative Commons Attribution 4.0 International (CC BY 4.0)**, lo que significa que cualquiera puede **usar, modificar y distribuir** el proyecto, pero debe **dar crédito a [Tu Nombre]** como el creador original.
 
